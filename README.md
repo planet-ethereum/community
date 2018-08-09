@@ -1,6 +1,8 @@
 # Planet Ethereum
 The Ethereum ecosystem is growing, and growing fast. There are many amazing teams and individuals buidling the awesome infrastructure and tools that we use so much, let's show them some love.
 
+(Read these before? Head straight to the [issues](ETHBerlin.md))
+
 # Goals
 The aims of Planet Ethereum is multifold.
 
