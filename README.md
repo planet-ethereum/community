@@ -4,7 +4,7 @@ The Ethereum ecosystem is growing, and growing fast. There are many amazing team
 (Read these before? Head straight to the [issues](ETHBerlin.md))
 
 ## Goals
-The aims of Planet Ethereum is multifold.
+The aim of this community project is to research and implement methods which best progress toward these goals:
 
 1. To collect and curate a list of issues, feature requests, ideas, etc. regarding infrastructure and tooling projects, to act as a sort of menu for first-time and regular contributors to go through and pick what they find delicious, thereby helping the projects and the ecosystem.
 
@@ -16,7 +16,9 @@ The aims of Planet Ethereum is multifold.
 
 5. To push people to #buidl in preperation for upcoming hackathon and community gatherings.
 
-4. And above all, to encourage a spirit of collaboration, and increase network effects.
+6. To facilitate the exchange of ideas, and through that, the forming of teams, who in turn start new adventures.
+
+7. And above all, to encourage a spirit of collaboration, and increase network effects.
 
 ## Contribute
 At the moment, the aforementioned goals are just that, goals. Want to help achieve them? you can help in the following ways:
