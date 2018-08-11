@@ -1,31 +1,31 @@
 # Planet Ethereum
-The Ethereum ecosystem is growing, and growing fast. There are many amazing teams and individuals buidling the awesome infrastructure and tools that we use so much, let's show them some love.
+1. Technology is but a tool, what use is there to it then, if it's not a tool for good.
+2. The Ethereum ecosystem can be a tool for good, if like any other complex organism,
+all its individual parts collaborate and communicate directly with the goals of sustaining
+the organism itself, and improving the being of individual parts.
 
-(Read these before? Head straight to the [issues](ETHBerlin.md))
+The combination of these two points, is the broad vision of Planet Ethereum. In order to
+achieve this vision, we have defined our values and mission as follows.
 
-## Goals
-The aim of this community project is to research and implement methods which best progress toward these goals:
+## Mission
+This community project strives to research and implement methods which produce the most effect in the following directions:
 
-1. To collect and curate a list of issues, feature requests, ideas, etc. regarding infrastructure and tooling projects, to act as a sort of menu for first-time and regular contributors to go through and pick what they find delicious, thereby helping the projects and the ecosystem.
+1. As the planet is largely unexplored, to make it easy to experiment, and reduce the cost of experimentation, by stressing a strong devtool infrastructure.
 
-2. By means of a mechanism (upvote, QV, ...), we can signal the items which many people care about and want to see implemented.
+2. To provide a means for experienced community members to mentor those who are new and learning.
 
-3. To provide a means for experienced community members to mentor those who are new and learning.
+3. To facilitate the exchange of ideas, and through that, the forming of teams, who in turn start new adventures.
 
-4. As the planet is largely unexplored, to make it easy to experiment, and reduce the cost of experimentation, by stressing a strong devtool infrastructure.
+4. In trying to achieve these goals, try to use decentralized applications and tools over centralized ones.
 
-5. To push people to #buidl in preperation for upcoming hackathon and community gatherings.
+5. Encourage value-driven development.
 
-6. To facilitate the exchange of ideas, and through that, the forming of teams, who in turn start new adventures.
+6. To support projects which benefit the community, but don't yet have a viable mean of sustaining themselves.
 
-7. In trying to achieve these goals, try to use decentralized applications and tools over centralized ones.
-
-8. Encourage value-driven development
-
-9. And above all, to encourage a spirit of collaboration, and increase network effects.
+7. And above all, to encourage a spirit of collaboration, and increase network effects.
 
 ## Contribute
-At the moment, the aforementioned goals are just that, goals. Want to help achieve them? you can help in the following ways:
+At the moment, the aforementioned goals are just that, goals. You agree with them and want to see them realized? you can help in the following ways:
 
 1. Help us figure out how to tacke these goals
 2. Add issues, feature requests or ideas for new tools you might have here
