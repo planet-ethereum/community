@@ -18,7 +18,11 @@ The aim of this community project is to research and implement methods which bes
 
 6. To facilitate the exchange of ideas, and through that, the forming of teams, who in turn start new adventures.
 
-7. And above all, to encourage a spirit of collaboration, and increase network effects.
+7. In trying to achieve these goals, try to use decentralized applications and tools over centralized ones.
+
+8. Encourage value-driven development
+
+9. And above all, to encourage a spirit of collaboration, and increase network effects.
 
 ## Contribute
 At the moment, the aforementioned goals are just that, goals. Want to help achieve them? you can help in the following ways:
