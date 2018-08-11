@@ -34,3 +34,7 @@ At the moment, the aforementioned goals are just that, goals. Want to help achie
 5. Spread the word
 
 Please feel free to create issues to discuss anything, and PRs to change anything :)
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
