@@ -1,4 +1,6 @@
 # Planet Ethereum
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/planet-ethereum/Lobby)
+
 We at Planet Ethereum believe that explicit specification and publication of values, mission and vision by any organization will benefit all of the stakeholders involved in the proceedings of the organization, and in accordance with this belief, we strive to maintain this repository as a reflection of our own values, mission and vision.
 
 ## Vision
