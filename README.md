@@ -1,4 +1,7 @@
 # Planet Ethereum
+We at Planet Ethereum believe that explicit specification and publication of values, mission and vision by any organization will benefit all of the stakeholders involved in the proceedings of the organization, and in accordance with this belief, we strive to maintain this repository as a reflection of our own values, mission and vision.
+
+## Vision
 1. Technology is but a tool, what use is there to it then, if it's not a tool for good.
 2. The Ethereum ecosystem can be a tool for good, if like any other complex organism,
 all its individual parts collaborate and communicate directly with the goals of sustaining
@@ -23,6 +26,14 @@ This community project strives to research and implement methods which produce t
 6. To support projects which benefit the community, but don't yet have a viable mean of sustaining themselves.
 
 7. And above all, to encourage a spirit of collaboration, and increase network effects.
+
+## Values
+- Transparency
+- Openness
+- Decentralization
+- Inclusivity
+- Fairness
+- Sustainability
 
 ## Contribute
 At the moment, the aforementioned goals are just that, goals. You agree with them and want to see them realized? you can help in the following ways:
