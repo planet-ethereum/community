@@ -25,6 +25,7 @@ This community project strives to research and implement efficient methods which
 5. Support projects which benefit the community, but don't yet have a viable mean of sustaining themselves.
 6. Encourage value-driven development.
 7. Encourage a spirit of collaboration, and increase network effects.
+8. Invest in improving community signaling for what they deem most necessary at the moment for the ecosystem, and try to adjust efforts according to this signal within the organization.
 
 ## Values
 - Transparency
@@ -35,7 +36,9 @@ This community project strives to research and implement efficient methods which
 - Sustainability
 
 ## Self-sustainability
-We realize that continued concentrated effort would certainly benefit from a source of funding. Hence We hope to become sustainable by participating in hackathons with ideas from our proposals pool, or by doing bounties from the projects we find beneficial for the ecosystem that require help in workpower, or by applying for grants for our research projects. As, all three of the aforementioned strem from the ecosystem, in a way, the ecosystem will be investing in research, development and maintaining of the common set of what the community finds necessary and what aligns with our skills and values.
+We realize that continued concentrated effort would certainly benefit from a source of funding. Hence We hope to become sustainable by participating in hackathons with ideas from our proposals pool, or by doing bounties from the projects we find beneficial for the ecosystem that require help in workpower, or by applying for grants for our research projects.
+
+As, all three of the aforementioned strem from the ecosystem, in a way, the ecosystem will be investing in research, development and maintaining of the common set of what the community finds necessary and what aligns with our skills and values. That is one of the reasons why we must aim for transparency and accountability, and furthermore why we must try our best to engage the ecosystem at large and to gather feedback on what is deemed as most necessary.
 
 ## Join Us
 Thanks for reading this far! if you're also excited about our vision, we'd be more than happy
