@@ -7,9 +7,12 @@ We at Planet Ethereum believe that explicit specification and publication of val
 - [Vision](#vision)
 - [Mission](#mission)
 - [Values](#values)
+- [Self-sustainability](#self-sustainability)
 - [Join Us](#join-us)
 
 ## Vision
+We wish to become a non-profit decentralized organization, with a low barrier to entry, which pursues the following:
+
 A thriving Ethereum ecosystem, with a spirit of collaboration and experimentation, and a strong network effect, that promotes the values we believe in.
 
 ## Mission
@@ -30,6 +33,9 @@ This community project strives to research and implement efficient methods which
 - Inclusivity
 - Fairness
 - Sustainability
+
+## Self-sustainability
+We realize that continued concentrated effort would certainly benefit from a source of funding. Hence We hope to become sustainable by participating in hackathons with ideas from our proposals pool, or by doing bounties from the projects we find beneficial for the ecosystem that require help in workpower, or by applying for grants for our research projects. As, all three of the aforementioned strem from the ecosystem, in a way, the ecosystem will be investing in research, development and maintaining of the common set of what the community finds necessary and what aligns with our skills and values.
 
 ## Join Us
 Thanks for reading this far! if you're also excited about our vision, we'd be more than happy
