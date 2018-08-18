@@ -3,6 +3,12 @@
 
 We at Planet Ethereum believe that explicit specification and publication of values, mission and vision by any organization will benefit all of the stakeholders involved in the proceedings of the organization, and in accordance with this belief, we strive to maintain this repository as a reflection of our own values, mission and vision.
 
+## Table of Contents
+- [Vision](#vision)
+- [Mission](#mission)
+- [Values](#values)
+- [Join Us](#join-us)
+
 ## Vision
 A thriving Ethereum ecosystem, with a spirit of collaboration and experimentation, and a strong network effect, that promotes the values we believe in.
 
