@@ -42,8 +42,9 @@ As, all three of the aforementioned strem from the ecosystem, in a way, the ecos
 
 ## Join Us
 Thanks for reading this far! if you're also excited about our vision, we'd be more than happy
-to have you, and to help you employ your personal strengths in achieving it. Here is just a small subset of the ways
-you can take part:
+to have you, and to help you employ your personal strengths in achieving it. Make sure you drop by our Gitter [channel](https://gitter.im/planet-ethereum/Lobby) and say hi.
+
+Here is just a small subset of the ways you can take part:
 
 1. Help us figure out how to tackle these goals
 2. Research, implement or maintain dev tools for the ecosystem
@@ -51,6 +52,8 @@ you can take part:
 3. Mentor beginners, and provide educational content
 4. Spread the word
 5. Mix your creativity with our UIs
+
+We understand if you can't spend much time on this, we do this in our free time too. Even small contributions add up over time and matter.
 
 Please feel free to create issues to discuss anything, and PRs to change anything :)
 
