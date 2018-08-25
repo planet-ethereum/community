@@ -18,14 +18,15 @@ A thriving Ethereum ecosystem, with a spirit of collaboration and experimentatio
 ## Mission
 This community project strives to research and implement efficient methods which progress towards the following goals:
 
-1. As the planet is largely unexplored, to make it easy to experiment, and reduce the cost of experimentation, by stressing a strong devtool infrastructure.
+1. Build and maintain devtools and infrastructure to reduce the cost of experimentation, as the planet is largely unexplored.
 2. Invest in educational efforts.
 3. Facilitate the exchange of ideas, and thereby, the formation of teams, who in turn start new adventures.
 4. Practice decentralized organization.
 5. Support projects which benefit the community, but don't yet have a viable mean of sustaining themselves.
-6. Encourage value-driven development.
-7. Encourage a spirit of collaboration, and increase network effects.
-8. Invest in improving community signaling for what they deem most necessary at the moment for the ecosystem, and try to adjust efforts according to this signal within the organization.
+6. Encourage a spirit of collaboration, and increase network effects.
+7. Invest in improving community signaling for what they deem most necessary at the moment for the ecosystem, and try to adjust efforts according to this signal within the organization.
+8. Regularly measure impact of ecosystem on real-world problems.
+8. Encourage value-driven development.
 
 ## Values
 - Transparency
